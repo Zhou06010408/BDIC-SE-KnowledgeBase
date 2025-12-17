@@ -27,6 +27,8 @@ Lecture: Nima十分认真，是BDIC的好老师之一。邮件回复及时，有
 ### 🛠️ 历年试卷
 
 #### 数据结构与算法I试卷
+- 📄 [COMP2010J 数据结构与算法1 2024-2025](https://github.com/user-attachments/files/24205856/BDIC_Exam_COMP2010J_2024._Exampaper.pdf)
+- 
 - 📄 [COMP2010J 数据结构与算法](./Exam/COMP2010J%20Data%20Structures%20and%20Algorithms.pdf)
 - 📄 [COMP2002J 数据结构与算法 2017-2018学年第1学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%20Semester%201%202017_18.pdf)
 - 📄 [COMP2002J 数据结构与算法 2016-2017学年第1学期](./Exam/COMP2002J%20Data%20Structures%20and%20Algorithms%20Semester%201%202016_17.pdf)
